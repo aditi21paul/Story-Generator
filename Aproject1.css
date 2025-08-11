@@ -1,0 +1,61 @@
+.thumbnail{
+ width:250px;
+ height:200px;
+ object-fit: cover;
+ margin: 20px,100px,20px,100px;
+}
+
+.choices{
+    width:250px;
+    display: inline-block;
+}
+
+.textAndCheck{
+    width:240px;
+    display:flex;
+ }
+
+.imgDesc{
+    width:120px;
+    display:inline-block;
+}
+
+.check{
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:10px;
+    margin-left: 0px;
+    display:inline-block;
+    width:20px;
+}
+
+body{
+ background-color: rgb(36, 20, 104);
+}
+
+input{
+   font-size: 20px;
+   background-color: rgb(247,155,211);
+   color:rgb(36, 20, 104);
+   display:block;
+   width: 500px;
+   margin-top:10px;
+   margin-bottom: 10px;
+   border-radius: 4px;
+}
+p{  
+    font-size: 20px;
+    color: rgb(247,155,211);
+}
+
+button{
+   background-color: rgb(234,17,121);
+   color:rgb(36, 20, 104);
+   border-radius:20px;
+   
+   font-size:20px;
+}
+
+h3{
+       color: rgb(234,17,121)
+}
